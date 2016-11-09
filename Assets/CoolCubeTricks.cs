@@ -9,7 +9,7 @@ public class CoolCubeTricks : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("I am a ice cold cube");
+		Debug.Log("hi i m cube :)");
     }
     
     void Update()
