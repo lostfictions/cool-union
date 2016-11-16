@@ -1,0 +1,15 @@
+# Sublime/Ctags-generated
+
+*.sublime-project
+*.sublime-workspace
+.tags
+.tags_sorted_by_file
+
+# System-generated files
+
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Additional ignores
